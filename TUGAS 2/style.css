@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Yatra+One&display=swap');
+
+body {
+    font-family: "Yatra One";
+}
+
+
+
+.box-blue {
+background-color: rgb(205, 232, 229);
+margin: 15px;
+padding: 15px;
+border-radius: 10px;
+border-style: double;
+text-align: justify;
+box-shadow: 5px 5px 2px 1px rgb(181, 130, 140);
+}
+
+.box-blue img{
+    border-radius: 15px;
+}
+
+.box-pink {
+background-color: rgb(255, 205, 178);
+margin: 15px;
+padding: 15px;
+border-radius: 10px;
+border-style: groove;
+text-align: justify;
+box-shadow: 5px 5px 2px 1px rgb(77, 134, 156);
+}
+
+.box-pink img{
+    border-radius: 15px;
+}
+
+.box-peach {
+background-color: rgb(254, 250, 224);
+margin: 15px;
+padding: 15px;
+border-radius: 10px;
+border-style:dashed;
+text-align: justify;
+box-shadow: 5px 5px 2px 1px rgb(230, 185, 166);
+}
+    
+.box-peach img{
+    border-radius: 15px;
+}
+
+
+.box-sunset {
+background-color: rgb(255, 227, 130);
+margin: 15px;
+padding: 15px;
+border-radius: 10px;
+border-style:solid;
+text-align: justify;
+box-shadow: 5px 5px 2px 1px rgb(255, 173, 132);
+}
+        
+.box-sunset img {
+    border-radius: 15px;
+}
+
+.box-cream {
+background-color: rgb(225, 240, 218);
+margin: 15px;
+padding: 15px;
+border-radius: 10px;
+border-style:dotted;
+text-align: justify;
+box-shadow: 5px 5px 2px 1px rgb(153, 188, 133);
+}
+            
+.box-cream img {
+    border-radius: 15px;
+}
+
+.box-vintage {
+background-color: rgb(200, 144, 167);
+margin: 15px;
+padding: 15px;
+border-radius: 10px;
+border-style:outset;
+text-align: justify;
+box-shadow: 5px 5px 2px 1px rgb(163, 92, 122);
+}
+                
+.box-vintage img {
+    border-radius: 15px;
+}
+
+.jumbotron
+{
+    background-color: #FFEBD8 ;
+    padding: 60px;
+    text-align: center;
+    color: #1A1A1D;
+    font-size: 50px;
+}
+
+.alahsiahboy
+{
+    background-color: #27445D ;
+    padding: 60px;
+    text-align: center;
+    color: #FAEDCE;
+    font-size: 30px;
+}
